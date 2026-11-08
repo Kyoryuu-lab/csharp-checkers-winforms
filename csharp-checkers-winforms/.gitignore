@@ -1,0 +1,23 @@
+## Visual Studio Temp & Build Artifacts
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio Solution User Options
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+## Rider & ReSharper
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+## OS Metadata
+.DS_Store
+Thumbs.db
